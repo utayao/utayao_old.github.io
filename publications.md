@@ -7,12 +7,14 @@ modified: 8-7-2014
 comments: false
 ---
 
+
 <p>
 You can also see my full publication list from <a href="https://scholar.google.com/citations?user=krtXz3QAAAAJ" target="_blank">Google Scholar profile</a>.
 </p>
 
 
-#### Imaging Genomics Based Cancer Clinical Outcome Prediction
+
+#### Imaging Genomics Based Cancer Clinical Outcome Prediction (3 MICCAIs/1 CVPR)
 ---
 
 
@@ -110,7 +112,7 @@ In <i><b>MICCAI</b></i> 2016
 </div>
 
 
-#### CS-MRI Reconstruction
+#### CS-MRI Reconstruction (1 MICCAI/MedIA)
 ---
 <!-- Item: Perazzi2016 -->
 <img align="right" width="150" src="{{ site.url }}/images/MICCAI15.png" alt="..."> 
@@ -135,7 +137,28 @@ In <i><b>MICCAI</b></i> 2016
 </pre>
 </div>
 
-#### Video Analysis
+<b>Jiawen Yao</b>, Zheng Xu, Xiaolei Huang and Junzhou Huang
+<br><b>An Efficient Algorithm for Dynamic MRI Using Low-Rank and Total Variation Regularizations</b><br>
+<i>To appear in <b>Medical Image Analysis</b></i> 2017
+<br />
+<a href="javascript:toggleBibtex('Perazzi2016')">[BibTeX]</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-24571-3_76" target="_blank">[Coming soon]</a>
+[[**Project**]]({{ site.url }}/dynamic_MRI/)
+
+<div id="bib_Perazzi2016" class="bibtex noshow">
+<pre>
+@incollection{yao2015accelerated,
+  title={Accelerated Dynamic MRI Reconstruction with Total Variation and Nuclear Norm Regularization},
+  author={Yao, Jiawen and Xu, Zheng and Huang, Xiaolei and Huang, Junzhou},
+  booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2015},
+  pages={635--642},
+  year={2015},
+  publisher={Springer International Publishing}
+}
+</pre>
+</div>
+
+#### Video Analysis (1 TIP/TCSVT, 1 ICME oral)
 ---
 <p><img align="right" width="200" src="{{ site.url }}/images/TCSVT.png" alt="..."> 
     <a href="http://www.ee.oulu.fi/~xliu/" target="_blank">Xin Liu</a>, <b>Jiawen Yao</b>, Xiaopeng Hong, Xiaohua Huang, Ziheng Zhou, Chun Qi and Guoying Zhao <br><b>Background Subtraction using Spatio-Temporal Group Sparsity Recovery</b><br>
