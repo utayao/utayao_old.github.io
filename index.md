@@ -21,3 +21,9 @@ From my past experiences on various projects, I am very passionate about AI in m
 ### News
 --- Welcome to my new site. More will be updated
 ---
+
+
+<blockquote class="twitter-tweet" data-lang="us"><a href="https://twitter.com/steiyao/status/932086788713254912"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</blockquote> 
+
+<script type="text/javascript" src="//ra.revolvermaps.com/0/0/2.js?i=0z3tphce06i&amp;m=0&amp;s=130&amp;c=ff0000&amp;t=1" async="async"></script>
