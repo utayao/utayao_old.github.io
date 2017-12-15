@@ -16,13 +16,13 @@ In this paper, we propose an efficient algorithm for dynamic magnetic resonance 
 
 #### Codes
 
-Codes of FTVNNR will coming soon.
+[MATLAB Code](https://github.com/utayao/FTVNNR_Dynamic_MRI)
 
 #### References
 - Jiawen Yao, Zheng Xu, Xiaolei Huang, Junzhou Huang
 <br/>
 ”An Efficient Algorithm for Dynamic MRI Using Low-Rank and Total Variation Regularizations”
-<br/>To appear in Medical Image Analysis, 2017
+<br/>*Medical image analysis*, Vol. 44, 14-27, 2018
 - Jiawen Yao, Zheng Xu, Xiaolei Huang, Junzhou Huang
 <br/>”Accelerated Dynamic MRI Reconstruction with Total Variation and Nuclear Norm Regularization”
-<br/>In MICCAI 2015
+<br/>*MICCAI 2015*

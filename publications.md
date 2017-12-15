@@ -49,7 +49,7 @@ You can also see my full publication list from <a href="https://scholar.google.c
 <br><b>WSISA: Making Survival Prediction from Whole Slide Pathology Images</b><br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, 2017.
 <br />
-<a href="javascript:toggleBibtex('Caelles2017')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('Zhu2017')">[BibTeX]</a>
 <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_WSISA_Making_Survival_CVPR_2017_paper.pdf">[PDF]</a> 
 [[**Project**]]({{ site.url }}/Research_Survival_WSI/)
 
@@ -95,10 +95,10 @@ Sheng Wang, <b>Jiawen Yao</b>, Zheng Xu and Junzhou Huang
 <br><b>Subtype Cell Detection with an Accelerated Deep Convolution Neural Network</b><br>
 In <i><b>MICCAI</b></i> 2016
 <br />
-<a href="javascript:toggleBibtex('Maninis2016')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('Wang2016')">[BibTeX]</a>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-46723-8_74" target="_blank">[PDF]</a> 
 [[**Project**]]({{ site.url }}/Imaging_Biomarker/)
-<div id="bib_Maninis2016" class="bibtex noshow">
+<div id="bib_Wang2016" class="bibtex noshow">
 <pre>
 @inproceedings{wang2016subtype,
   title={Subtype Cell Detection with an Accelerated Deep Convolution Neural Network},
@@ -117,14 +117,36 @@ In <i><b>MICCAI</b></i> 2016
 <!-- Item: Perazzi2016 -->
 <img align="right" width="150" src="{{ site.url }}/images/MICCAI15.png" alt="..."> 
 <b>Jiawen Yao</b>, Zheng Xu, Xiaolei Huang and Junzhou Huang
+<br><b>An Efficient Algorithm for Dynamic MRI Using Low-Rank and Total Variation Regularizations</b><br>
+<i><b>Medical Image Analysis</b></i> Vol. 44, 14-27, 2018
+<br />
+<a href="javascript:toggleBibtex('Perazzi2016')">[BibTeX]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1361841517301585" target="_blank">[PDF]</a>
+[[**Project & Code**]]({{ site.url }}/dynamic_MRI/)
+
+<div id="bib_Perazzi2016" class="bibtex noshow">
+<pre>
+@article{yao2018efficient,
+  title={An efficient algorithm for dynamic MRI using low-rank and total variation regularizations},
+  author={Yao, Jiawen and Xu, Zheng and Huang, Xiaolei and Huang, Junzhou},
+  journal={Medical image analysis},
+  volume={44},
+  pages={14--27},
+  year={2018},
+  publisher={Elsevier}
+}
+</pre>
+</div>
+
+
+<b>Jiawen Yao</b>, Zheng Xu, Xiaolei Huang and Junzhou Huang
 <br><b>Accelerated Dynamic MRI Reconstruction with Total Variation and Nuclear Norm Regularization</b><br>
 <i>In <b>MICCAI</b></i> 2015, <font color="red">Early Accept, Travel Awards</font>
 <br />
-<a href="javascript:toggleBibtex('Perazzi2016')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('Yao2015')">[BibTeX]</a>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-24571-3_76" target="_blank">[PDF]</a>
-[[**Project**]]({{ site.url }}/dynamic_MRI/)
 
-<div id="bib_Perazzi2016" class="bibtex noshow">
+<div id="bib_Yao2015" class="bibtex noshow">
 <pre>
 @incollection{yao2015accelerated,
   title={Accelerated Dynamic MRI Reconstruction with Total Variation and Nuclear Norm Regularization},
@@ -137,26 +159,7 @@ In <i><b>MICCAI</b></i> 2016
 </pre>
 </div>
 
-<b>Jiawen Yao</b>, Zheng Xu, Xiaolei Huang and Junzhou Huang
-<br><b>An Efficient Algorithm for Dynamic MRI Using Low-Rank and Total Variation Regularizations</b><br>
-<i>To appear in <b>Medical Image Analysis</b></i> 2017
-<br />
-<a href="javascript:toggleBibtex('Perazzi2016')">[BibTeX]</a>
-<a href="https://link.springer.com/chapter/10.1007/978-3-319-24571-3_76" target="_blank">[Coming soon]</a>
-[[**Project**]]({{ site.url }}/dynamic_MRI/)
 
-<div id="bib_Perazzi2016" class="bibtex noshow">
-<pre>
-@incollection{yao2015accelerated,
-  title={Accelerated Dynamic MRI Reconstruction with Total Variation and Nuclear Norm Regularization},
-  author={Yao, Jiawen and Xu, Zheng and Huang, Xiaolei and Huang, Junzhou},
-  booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2015},
-  pages={635--642},
-  year={2015},
-  publisher={Springer International Publishing}
-}
-</pre>
-</div>
 
 #### Video Analysis (1 TIP/TCSVT, 1 ICME oral)
 ---
@@ -165,10 +168,10 @@ In <i><b>MICCAI</b></i> 2016
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
 2017.
 <br />
-<a href="javascript:toggleBibtex('Maninis2017')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('liu2017')">[BibTeX]</a>
 <a href="http://www.ee.oulu.fi/~xliu/paper/2017/CSVT.pdf" target="_blank">[PDF]</a> <a target="_blank">[Project Page]</a>
 </p>
-<div id="bib_Maninis2017" class="bibtex noshow">
+<div id="bib_liu2017" class="bibtex noshow">
 <pre>
 @article{liu2017background,
   title={Background Subtraction using Spatio-Temporal Group Sparsity Recovery},
@@ -185,10 +188,10 @@ In <i><b>MICCAI</b></i> 2016
 <br><b>Background subtraction based on low-rank and structured sparse decomposition</b><br>
 <i>IEEE Transactions on Image Processing (TIP), 2015</i>
 
-<a href="javascript:toggleBibtex('Pont-Tuset2017')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('Pont-liu2015')">[BibTeX]</a>
 <a href="http://ieeexplore.ieee.org/document/7423791/" target="_blank">[PDF]</a> 
 [[**Project**]]({{ site.url }}/LSD/) [<font color="red">Extension of ICME'14</font>]
-<div id="bib_Pont-Tuset2017" class="bibtex noshow">
+<div id="bib_Pont-liu2015" class="bibtex noshow">
 <pre>
 @article{liu2015background,
   title={Background subtraction based on low-rank and structured sparse decomposition},
