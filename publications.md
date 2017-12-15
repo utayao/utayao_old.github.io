@@ -169,7 +169,7 @@ In <i><b>MICCAI</b></i> 2016
 2017.
 <br />
 <a href="javascript:toggleBibtex('liu2017')">[BibTeX]</a>
-<a href="http://www.ee.oulu.fi/~xliu/paper/2017/CSVT.pdf" target="_blank">[PDF]</a> <a target="_blank">[Project Page]</a>
+<a href="http://www.ee.oulu.fi/~xliu/paper/2017/CSVT.pdf" target="_blank">[PDF]</a>
 </p>
 <div id="bib_liu2017" class="bibtex noshow">
 <pre>
@@ -189,8 +189,8 @@ In <i><b>MICCAI</b></i> 2016
 <i>IEEE Transactions on Image Processing (TIP), 2015</i>
 
 <a href="javascript:toggleBibtex('Pont-liu2015')">[BibTeX]</a>
-<a href="http://ieeexplore.ieee.org/document/7423791/" target="_blank">[PDF]</a> 
-[[**Project**]]({{ site.url }}/LSD/) [<font color="red">Extension of ICME'14</font>]
+<a href="http://ieeexplore.ieee.org/abstract/document/7076585/" target="_blank">[PDF]</a> 
+[[**Project & Code**]]({{ site.url }}/LSD/) [<font color="red">Extension of ICME'14</font>]
 <div id="bib_Pont-liu2015" class="bibtex noshow">
 <pre>
 @article{liu2015background,
@@ -213,8 +213,8 @@ In <i><b>MICCAI</b></i> 2016
 <i>ICME</i>, <font color="red">Oral Presentation</font>, 2014
 <br />
 <a href="javascript:toggleBibtex('Pont-Tuset2010')">[BibTeX]</a>
-<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5652339">[PDF]</a>
-<a href="http://www.ee.oulu.fi/~xliu/research/lsd/LSD.html">[Code]</a>
+<a href="http://ieeexplore.ieee.org/document/6890200/">[PDF]</a>
+<a href="https://github.com/utayao/LSD_Foreground_Detection">[MATLAB Code]</a>
 </p>
 <div id="bib_Pont-Tuset2010" class="bibtex noshow">
 <pre>
