@@ -18,6 +18,8 @@ An efficient algorithm to solve dynamic MRI using low-rank and total variation c
 * [**LSD**]({{ site.url }}/LSD/)<br>
 Method for background subtraction using low rank and structured sparsity decomposition. From our ICME 2014 and TIP 2015 papers.
 
+* [**Attention-based MIL**](https://github.com/utayao/Atten_Deep_MIL)<br>
+This is a re-implementation of one interesting paper "Attention-based Deep Multiple Instance Learning". Please check my Github for more information. 
  
 ### Challenge
 
